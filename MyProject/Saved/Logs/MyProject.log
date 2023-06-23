@@ -1596,3 +1596,409 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.06.23-18.20.34:052][ 65]LogPlayLevel: Display: Destroying online subsystem :Context_5
 [2023.06.23-18.20.35:335][218]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
 [2023.06.23-18.21.09:479][ 65]LogEditorViewport: Clicking Background
+[2023.06.23-18.39.53:086][ 35]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.06.23-18.39.53:094][ 35]LogSavePackage: Moving '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/MainLevel1DEBF1AE461F6C98F3C601BA4E1FBD0D.tmp' to '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Content/Levels/MainLevel.umap'
+[2023.06.23-18.39.53:130][ 35]LogFileHelpers: Saving map 'MainLevel' took 0.051
+[2023.06.23-18.39.53:149][ 35]AssetCheck: New page: Asset Save: MainLevel
+[2023.06.23-18.39.53:150][ 35]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
+[2023.06.23-19.20.16:680][167]LogMaterial: Display: Missing cached shadermap for T_Wood_Floor_Walnut_M_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: CE34199EC1B7CBC3CC59C30DBE25366AE4038F24), compiling. 
+[2023.06.23-19.20.16:701][167]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.06.23-19.20.16:713][167]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.06.23-19.20.16:713][167]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.06.23-19.20.16:713][167]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.23-19.20.16:713][167]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.06.23-19.20.16:746][168]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2023.06.23-19.20.16:746][168]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2023.06.23-19.20.16:746][168]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2023.06.23-19.20.16:746][168]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2023.06.23-19.20.16:746][168]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.06.23-19.20.16:746][168]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2023.06.23-19.20.16:746][168]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-19.20.17:919][210]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.06.23-19.20.17:919][210]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-19.20.17:926][210]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.23-19.20.17:926][210]LogShaderCompilers: Display: Total job queries 144, among them cache hits 0 (0.00%)
+[2023.06.23-19.20.17:926][210]LogShaderCompilers: Display: Tracking 129 distinct input hashes that result in 24 distinct outputs (18.60%)
+[2023.06.23-19.20.17:926][210]LogShaderCompilers: Display: RAM used: 0.14 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.03%
+[2023.06.23-19.20.17:926][210]LogShaderCompilers: Display: ================================================
+[2023.06.23-19.20.18:099][221]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.06.23-19.20.18:099][221]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-19.20.28:141][311]LogMaterial: Display: Missing cached shadermap for T_Wood_Oak_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 7390D197AA2600A9D3C86BD2B7F8CD6A0D40C126), compiling. 
+[2023.06.23-19.20.28:181][312]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.06.23-19.20.28:181][312]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.06.23-19.20.28:181][312]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.06.23-19.20.28:181][312]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.23-19.20.28:181][312]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.06.23-19.20.28:181][312]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2023.06.23-19.20.28:181][312]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2023.06.23-19.20.28:181][312]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2023.06.23-19.20.28:181][312]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2023.06.23-19.20.28:181][312]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.06.23-19.20.28:181][312]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2023.06.23-19.20.28:181][312]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-19.20.29:038][339]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.06.23-19.20.29:038][339]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-19.20.29:295][354]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.06.23-19.20.29:295][354]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-19.20.44:360][948]LogMaterial: Display: Missing cached shadermap for T_ground_Moss_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 1B8310C8BA405AF269BA89ECF2570DEBA3B8AC90), compiling. 
+[2023.06.23-19.20.44:375][948]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.06.23-19.20.44:383][948]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.06.23-19.20.44:383][948]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.06.23-19.20.44:383][948]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.23-19.20.44:385][948]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.06.23-19.20.44:391][948]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2023.06.23-19.20.44:391][948]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2023.06.23-19.20.44:391][948]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2023.06.23-19.20.44:391][948]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2023.06.23-19.20.44:391][948]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.06.23-19.20.44:391][948]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2023.06.23-19.20.44:391][948]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-19.20.45:203][970]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.06.23-19.20.45:203][970]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-19.20.45:401][982]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.06.23-19.20.45:401][982]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-19.20.50:710][451]LogMaterial: Display: Missing cached shadermap for T_Smoke_SubUV_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 426C669D92C8FEE5EC3BBF042C5FE3A5F9C64B67), compiling. 
+[2023.06.23-19.20.50:746][452]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.06.23-19.20.50:746][452]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.06.23-19.20.50:746][452]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.06.23-19.20.50:746][452]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.23-19.20.50:746][452]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.06.23-19.20.50:746][452]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2023.06.23-19.20.50:746][452]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2023.06.23-19.20.50:747][452]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2023.06.23-19.20.50:747][452]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2023.06.23-19.20.50:747][452]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.06.23-19.20.50:747][452]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2023.06.23-19.20.50:747][452]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-19.20.51:559][473]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.06.23-19.20.51:559][473]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-19.20.51:768][484]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.06.23-19.20.51:769][484]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-19.20.54:299][664]LogMaterial: Display: Missing cached shadermap for T_Rock_Smooth_Granite_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: CCBD785EA37B8764F02473494AC31BED6EABF5EE), compiling. 
+[2023.06.23-19.20.54:312][664]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.06.23-19.20.54:320][664]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.06.23-19.20.54:320][664]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.06.23-19.20.54:320][664]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.23-19.20.54:323][664]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.06.23-19.20.54:325][664]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2023.06.23-19.20.54:325][664]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2023.06.23-19.20.54:325][664]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2023.06.23-19.20.54:325][664]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2023.06.23-19.20.54:325][664]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.06.23-19.20.54:325][664]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2023.06.23-19.20.54:325][664]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-19.20.55:133][689]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.06.23-19.20.55:133][689]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-19.20.55:395][704]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.06.23-19.20.55:395][704]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-19.21.01:362][260]LogMaterial: Display: Missing cached shadermap for T_CobbleStone_Pebble_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 0B5BEB3A8180809067C4A8CF2DE725D9907AC31D), compiling. 
+[2023.06.23-19.21.01:413][261]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.06.23-19.21.01:413][261]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.06.23-19.21.01:413][261]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.06.23-19.21.01:413][261]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.23-19.21.01:413][261]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.06.23-19.21.01:413][261]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2023.06.23-19.21.01:413][261]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2023.06.23-19.21.01:413][261]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2023.06.23-19.21.01:413][261]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2023.06.23-19.21.01:414][261]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.06.23-19.21.01:414][261]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2023.06.23-19.21.01:414][261]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-19.21.02:232][284]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.06.23-19.21.02:232][284]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-19.21.02:418][296]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.06.23-19.21.02:418][296]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-19.21.30:185][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.06.23-19.21.30:196][513]LogSavePackage: Moving '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/MainLevel_Auto4CC25DAA1427B161FF0E9978F385F14BA.tmp' to '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/Autosaves/Game/Levels/MainLevel_Auto4.umap'
+[2023.06.23-19.21.30:197][513]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.022
+[2023.06.23-19.21.30:197][513]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.022
+[2023.06.23-19.21.30:198][513]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Wood_Floor_Walnut_M_Mat] ([1] browsable assets)...
+[2023.06.23-19.21.30:211][513]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Wood_Floor_Walnut_M_Mat.T_Wood_Floor_Walnut_M_Mat]
+[2023.06.23-19.21.30:211][513]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Wood_Floor_Walnut_M_Mat]
+[2023.06.23-19.21.30:222][513]LogSavePackage: Moving '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/T_Wood_Floor_Walnut_M_Mat_Auto4F00CA39F4DC0DD2F5BC6EEBBA968C41A.tmp' to '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/Autosaves/Game/StarterContent/Textures/T_Wood_Floor_Walnut_M_Mat_Auto4.uasset'
+[2023.06.23-19.21.30:223][513]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Wood_Oak_Mat] ([1] browsable assets)...
+[2023.06.23-19.21.30:235][513]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Wood_Oak_Mat.T_Wood_Oak_Mat]
+[2023.06.23-19.21.30:235][513]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Wood_Oak_Mat]
+[2023.06.23-19.21.30:243][513]LogSavePackage: Moving '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/T_Wood_Oak_Mat_Auto4F3BA062E4731F67D59CB199FA363D6D7.tmp' to '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/Autosaves/Game/StarterContent/Textures/T_Wood_Oak_Mat_Auto4.uasset'
+[2023.06.23-19.21.30:244][513]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_ground_Moss_Mat] ([1] browsable assets)...
+[2023.06.23-19.21.30:257][513]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_ground_Moss_Mat.T_ground_Moss_Mat]
+[2023.06.23-19.21.30:257][513]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_ground_Moss_Mat]
+[2023.06.23-19.21.30:265][513]LogSavePackage: Moving '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/T_ground_Moss_Mat_Auto461434E984788B5195AD3768ECFD21402.tmp' to '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/Autosaves/Game/StarterContent/Textures/T_ground_Moss_Mat_Auto4.uasset'
+[2023.06.23-19.21.30:266][513]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Smoke_SubUV_Mat] ([1] browsable assets)...
+[2023.06.23-19.21.30:279][513]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Smoke_SubUV_Mat.T_Smoke_SubUV_Mat]
+[2023.06.23-19.21.30:279][513]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Smoke_SubUV_Mat]
+[2023.06.23-19.21.30:287][513]LogSavePackage: Moving '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/T_Smoke_SubUV_Mat_Auto4D0F3FF8D4951DDB9E1C8EF9BB2C4C8D8.tmp' to '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/Autosaves/Game/StarterContent/Textures/T_Smoke_SubUV_Mat_Auto4.uasset'
+[2023.06.23-19.21.30:289][513]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Rock_Smooth_Granite_Mat] ([1] browsable assets)...
+[2023.06.23-19.21.30:301][513]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Rock_Smooth_Granite_Mat.T_Rock_Smooth_Granite_Mat]
+[2023.06.23-19.21.30:301][513]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Rock_Smooth_Granite_Mat]
+[2023.06.23-19.21.30:308][513]LogSavePackage: Moving '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/T_Rock_Smooth_Granite_Mat_Auto4AD41CBB7442A85FA470AB5902F370001.tmp' to '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/Autosaves/Game/StarterContent/Textures/T_Rock_Smooth_Granite_Mat_Auto4.uasset'
+[2023.06.23-19.21.30:309][513]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_CobbleStone_Pebble_Mat] ([1] browsable assets)...
+[2023.06.23-19.21.30:321][513]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_CobbleStone_Pebble_Mat.T_CobbleStone_Pebble_Mat]
+[2023.06.23-19.21.30:322][513]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_CobbleStone_Pebble_Mat]
+[2023.06.23-19.21.30:329][513]LogSavePackage: Moving '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/T_CobbleStone_Pebble_Mat_Auto4F7CD162240B2887BE9C207B7E5B93FD1.tmp' to '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/Autosaves/Game/StarterContent/Textures/T_CobbleStone_Pebble_Mat_Auto4.uasset'
+[2023.06.23-19.21.30:330][513]LogFileHelpers: Auto-saving content packages took 0.133
+[2023.06.23-19.22.01:209][111]LogMaterial: Display: Missing cached shadermap for T_Brick_Clay_Old_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 7E6B81AA984AA8DF8BB0B2443BD6E83ECA2BBD32), compiling. 
+[2023.06.23-19.22.01:261][112]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.06.23-19.22.01:261][112]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.06.23-19.22.01:261][112]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.06.23-19.22.01:261][112]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.23-19.22.01:261][112]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.06.23-19.22.01:262][112]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2023.06.23-19.22.01:262][112]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2023.06.23-19.22.01:262][112]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2023.06.23-19.22.01:262][112]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2023.06.23-19.22.01:262][112]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.06.23-19.22.01:262][112]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2023.06.23-19.22.01:262][112]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-19.22.02:269][137]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.06.23-19.22.02:269][137]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-19.22.02:575][149]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.06.23-19.22.02:576][149]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-19.24.17:724][130]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2023.06.23-19.25.17:762][687]Cmd: TRANSACTION UNDO
+[2023.06.23-19.25.17:762][687]LogEditorTransaction: Undo Scale Actors
+[2023.06.23-19.31.30:648][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2023.06.23-19.31.30:655][928]LogSavePackage: Moving '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/MainLevel_Auto5E86A8D3949FE8AF5FE5A1D8FDE0F89B8.tmp' to '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/Autosaves/Game/Levels/MainLevel_Auto5.umap'
+[2023.06.23-19.31.30:657][928]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.017
+[2023.06.23-19.31.30:657][928]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.017
+[2023.06.23-19.31.30:658][928]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Brick_Clay_Old_Mat] ([1] browsable assets)...
+[2023.06.23-19.31.30:674][928]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Brick_Clay_Old_Mat.T_Brick_Clay_Old_Mat]
+[2023.06.23-19.31.30:674][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Brick_Clay_Old_Mat]
+[2023.06.23-19.31.30:682][928]LogSavePackage: Moving '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/T_Brick_Clay_Old_Mat_Auto5AFEB61D1458BE736BE96449E3621CD98.tmp' to '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/Autosaves/Game/StarterContent/Textures/T_Brick_Clay_Old_Mat_Auto5.uasset'
+[2023.06.23-19.31.30:683][928]LogFileHelpers: Auto-saving content packages took 0.026
+[2023.06.23-20.54.29:190][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.06.23-20.54.29:198][993]LogSavePackage: Moving '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/MainLevel_Auto623374B7D4F31CA90BA089C8E49573C5D.tmp' to '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/Autosaves/Game/Levels/MainLevel_Auto6.umap'
+[2023.06.23-20.54.29:200][993]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.018
+[2023.06.23-20.54.29:200][993]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.018
+[2023.06.23-20.54.58:987][522]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2023.06.23-20.55.47:818][ 70]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2023.06.23-20.55.48:729][173]Cmd: EDIT COPY
+[2023.06.23-20.55.49:054][210]Cmd: EDIT PASTE
+[2023.06.23-20.55.52:500][600]Cmd: EDIT COPY
+[2023.06.23-20.55.52:844][637]Cmd: EDIT PASTE
+[2023.06.23-20.55.56:577][ 40]Cmd: EDIT COPY
+[2023.06.23-20.55.56:877][ 58]Cmd: EDIT PASTE
+[2023.06.23-20.56.06:604][165]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2023.06.23-20.56.08:692][401]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2023.06.23-20.56.16:924][335]LogEditorViewport: Clicking Background
+[2023.06.23-20.56.18:614][536]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2023.06.23-20.56.20:179][711]LogEditorViewport: Clicking Background
+[2023.06.23-20.56.27:668][572]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight)
+[2023.06.23-20.56.36:939][575]Cmd: TRANSACTION UNDO
+[2023.06.23-20.56.36:939][575]LogEditorTransaction: Undo Move Actors
+[2023.06.23-20.56.39:273][791]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight2)
+[2023.06.23-20.56.41:178][  7]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight3)
+[2023.06.23-20.56.43:446][232]LogEditorViewport: Clicking on Actor (CTRL LMB): PointLight (PointLight4)
+[2023.06.23-20.56.54:867][504]LogEditorViewport: Clicking Background
+[2023.06.23-20.58.06:822][613]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.23-20.58.06:828][613]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.23-20.58.06:828][613]PIE: New page: PIE session: MainLevel (Jun 24, 2023, 12:58:06 AM)
+[2023.06.23-20.58.06:853][613]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2023.06.23-20.58.06:856][613]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002119s)
+[2023.06.23-20.58.06:858][613]LogAIModule: Creating AISystem for world MainLevel
+[2023.06.23-20.58.06:860][613]LogPlayLevel: PIE: World Init took: (0.003515s)
+[2023.06.23-20.58.06:860][613]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.005880s)
+[2023.06.23-20.58.06:867][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.06.23-20.58.06:872][613]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.06.23-20.58.06:872][613]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.23-20.58.06:872][613]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.23-20.58.06:872][613]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.23-20.58.06:872][613]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.23-20.58.06:872][613]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.23-20.58.06:872][613]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.23-20.58.06:872][613]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.23-20.58.06:872][613]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.23-20.58.06:873][613]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.23-20.58.06:873][613]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.23-20.58.06:873][613]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.23-20.58.06:873][613]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.23-20.58.06:877][613]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.23-20.58.06:877][613]LogAudioMixer: Display: 1: FrontRight
+[2023.06.23-20.58.06:887][613]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2023.06.23-20.58.06:887][613]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.23-20.58.06:887][613]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.23-20.58.06:887][613]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.23-20.58.06:889][613]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.23-20.58.06:889][613]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.23-20.58.06:889][613]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.23-20.58.06:891][613]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.23-20.58.06:891][613]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.23-20.58.06:891][613]LogInit: FAudioDevice initialized.
+[2023.06.23-20.58.06:891][613]LogAudio: Display: Audio Device (ID: 4) registered with world 'MainLevel'.
+[2023.06.23-20.58.06:905][613]LogLoad: Game class is 'GameModeBase'
+[2023.06.23-20.58.06:906][613]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.06.23-22.58.06
+[2023.06.23-20.58.06:906][613]LogWorld: Bringing up level for play took: 0.000872
+[2023.06.23-20.58.06:907][613]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2023.06.23-20.58.06:910][613]PIE: Server logged in
+[2023.06.23-20.58.06:911][613]PIE: Play in editor total start time 0.083 seconds.
+[2023.06.23-20.58.14:184][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.23-20.58.14:184][466]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2023.06.23-20.58.14:184][466]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.06.23-20.58.14:184][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.23-20.58.14:195][466]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.23-20.58.14:197][466]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.23-20.58.14:203][466]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.23-20.58.14:203][466]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.23-20.58.14:204][466]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.23-20.58.14:206][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.23-20.58.14:209][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.06.23-20.58.14:258][468]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.06.23-21.00.02:581][834]Cmd: TRANSACTION UNDO
+[2023.06.23-21.00.02:582][834]LogEditorTransaction: Undo Create Actors
+[2023.06.23-21.00.02:947][844]Cmd: TRANSACTION UNDO
+[2023.06.23-21.00.02:947][844]LogEditorTransaction: Undo Clicking Background
+[2023.06.23-21.00.03:439][886]Cmd: TRANSACTION UNDO
+[2023.06.23-21.00.03:439][886]LogEditorTransaction: Undo Edit Intensity
+[2023.06.23-21.00.03:616][903]Cmd: TRANSACTION UNDO
+[2023.06.23-21.00.03:617][903]LogEditorTransaction: Undo Edit Intensity
+[2023.06.23-21.00.03:811][924]Cmd: TRANSACTION UNDO
+[2023.06.23-21.00.03:811][924]LogEditorTransaction: Undo Clicking on Actors
+[2023.06.23-21.00.03:976][938]Cmd: TRANSACTION UNDO
+[2023.06.23-21.00.03:976][938]LogEditorTransaction: Undo Clicking on Actors
+[2023.06.23-21.00.04:125][952]Cmd: TRANSACTION UNDO
+[2023.06.23-21.00.04:125][952]LogEditorTransaction: Undo Clicking on Actors
+[2023.06.23-21.00.04:287][967]Cmd: TRANSACTION UNDO
+[2023.06.23-21.00.04:287][967]LogEditorTransaction: Undo Clicking on Actors
+[2023.06.23-21.00.04:657][ 11]Cmd: TRANSACTION UNDO
+[2023.06.23-21.00.04:657][ 11]LogEditorTransaction: Undo Clicking Background
+[2023.06.23-21.00.04:966][ 43]Cmd: TRANSACTION UNDO
+[2023.06.23-21.00.04:966][ 43]LogEditorTransaction: Undo Move Actors
+[2023.06.23-21.00.05:192][ 65]Cmd: TRANSACTION UNDO
+[2023.06.23-21.00.05:192][ 65]LogEditorTransaction: Undo Clicking on Actors
+[2023.06.23-21.00.05:379][ 85]Cmd: TRANSACTION UNDO
+[2023.06.23-21.00.05:379][ 85]LogEditorTransaction: Undo Clicking Background
+[2023.06.23-21.00.05:555][ 99]Cmd: TRANSACTION UNDO
+[2023.06.23-21.00.05:555][ 99]LogEditorTransaction: Undo Move Actors
+[2023.06.23-21.00.05:715][114]Cmd: TRANSACTION UNDO
+[2023.06.23-21.00.05:715][114]LogEditorTransaction: Undo Clicking on Actors
+[2023.06.23-21.00.05:864][125]Cmd: TRANSACTION UNDO
+[2023.06.23-21.00.05:864][125]LogEditorTransaction: Undo Move Actors
+[2023.06.23-21.00.06:044][143]Cmd: TRANSACTION UNDO
+[2023.06.23-21.00.06:044][143]LogEditorTransaction: Undo Clicking on Actors
+[2023.06.23-21.00.06:210][157]Cmd: TRANSACTION UNDO
+[2023.06.23-21.00.06:210][157]LogEditorTransaction: Undo Move Actors
+[2023.06.23-21.00.06:361][172]Cmd: TRANSACTION UNDO
+[2023.06.23-21.00.06:361][172]LogEditorTransaction: Undo Move Actors
+[2023.06.23-21.00.06:529][191]Cmd: TRANSACTION UNDO
+[2023.06.23-21.00.06:529][191]LogEditorTransaction: Undo Paste
+[2023.06.23-21.00.06:694][204]Cmd: TRANSACTION UNDO
+[2023.06.23-21.00.06:694][204]LogEditorTransaction: Undo Move Actors
+[2023.06.23-21.00.06:860][221]Cmd: TRANSACTION UNDO
+[2023.06.23-21.00.06:860][221]LogEditorTransaction: Undo Paste
+[2023.06.23-21.00.07:246][261]Cmd: TRANSACTION UNDO
+[2023.06.23-21.00.07:246][261]LogEditorTransaction: Undo Move Actors
+[2023.06.23-21.00.07:636][305]Cmd: TRANSACTION UNDO
+[2023.06.23-21.00.07:636][305]LogEditorTransaction: Undo Paste
+[2023.06.23-21.00.08:002][343]Cmd: TRANSACTION UNDO
+[2023.06.23-21.00.08:002][343]LogEditorTransaction: Undo Clicking on Actors
+[2023.06.23-21.00.09:277][488]Cmd: TRANSACTION UNDO
+[2023.06.23-21.00.09:277][488]LogEditorTransaction: Undo Edit Intensity
+[2023.06.23-21.00.09:700][536]Cmd: TRANSACTION UNDO
+[2023.06.23-21.00.09:700][536]LogEditorTransaction: Undo Clicking on Actors
+[2023.06.23-21.00.10:099][578]Cmd: TRANSACTION UNDO
+[2023.06.23-21.00.10:099][578]LogEditorTransaction: Undo Move Actors
+[2023.06.23-21.00.10:476][618]Cmd: TRANSACTION UNDO
+[2023.06.23-21.00.10:476][618]LogEditorTransaction: Undo Move Actors
+[2023.06.23-21.00.10:876][665]Cmd: TRANSACTION UNDO
+[2023.06.23-21.00.10:876][665]LogEditorTransaction: Undo Create Actors
+[2023.06.23-21.00.17:106][343]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2023.06.23-21.01.29:690][143]Cmd: TRANSACTION UNDO
+[2023.06.23-21.01.29:690][143]LogEditorTransaction: Undo Move Actors
+[2023.06.23-21.01.29:961][150]Cmd: TRANSACTION UNDO
+[2023.06.23-21.01.29:961][150]LogEditorTransaction: Undo Move Actors
+[2023.06.23-21.01.30:193][156]Cmd: TRANSACTION UNDO
+[2023.06.23-21.01.30:193][156]LogEditorTransaction: Undo Move Actors
+[2023.06.23-21.01.30:376][172]Cmd: TRANSACTION UNDO
+[2023.06.23-21.01.30:376][172]LogEditorTransaction: Undo Edit Inner Cone Angle
+[2023.06.23-21.01.30:789][216]Cmd: TRANSACTION UNDO
+[2023.06.23-21.01.30:789][216]LogEditorTransaction: Undo Create Actors
+[2023.06.23-21.01.31:223][261]Cmd: TRANSACTION UNDO
+[2023.06.23-21.01.31:223][261]LogEditorTransaction: Undo Edit Intensity
+[2023.06.23-21.01.38:965][116]Cmd: TRANSACTION UNDO
+[2023.06.23-21.01.38:965][116]LogEditorTransaction: Undo Move Actors
+[2023.06.23-21.01.39:343][127]Cmd: TRANSACTION UNDO
+[2023.06.23-21.01.39:343][127]LogEditorTransaction: Undo Move Actors
+[2023.06.23-21.01.39:698][157]Cmd: TRANSACTION UNDO
+[2023.06.23-21.01.39:698][157]LogEditorTransaction: Undo Move Actors
+[2023.06.23-21.01.40:089][202]Cmd: TRANSACTION UNDO
+[2023.06.23-21.01.40:089][202]LogEditorTransaction: Undo Move Actors
+[2023.06.23-21.01.40:597][252]Cmd: TRANSACTION UNDO
+[2023.06.23-21.01.40:597][252]LogEditorTransaction: Undo Move Actors
+[2023.06.23-21.01.41:043][302]Cmd: TRANSACTION UNDO
+[2023.06.23-21.01.41:043][302]LogEditorTransaction: Undo Move Actors
+[2023.06.23-21.01.41:195][319]Cmd: TRANSACTION UNDO
+[2023.06.23-21.01.41:195][319]LogEditorTransaction: Undo Create Actors
+[2023.06.23-21.02.15:528][828]Cmd: TRANSACTION UNDO
+[2023.06.23-21.02.15:528][828]LogEditorTransaction: Undo Move Actors
+[2023.06.23-21.02.15:825][836]Cmd: TRANSACTION UNDO
+[2023.06.23-21.02.15:825][836]LogEditorTransaction: Undo Create Actors
+[2023.06.23-21.02.36:051][982]Cmd: EDIT COPY
+[2023.06.23-21.02.36:411][  6]Cmd: EDIT PASTE
+[2023.06.23-21.02.39:188][324]Cmd: EDIT COPY
+[2023.06.23-21.02.39:527][351]Cmd: EDIT PASTE
+[2023.06.23-21.02.42:083][630]Cmd: EDIT COPY
+[2023.06.23-21.02.42:445][652]Cmd: EDIT PASTE
+[2023.06.23-21.02.44:608][887]Cmd: EDIT COPY
+[2023.06.23-21.02.44:975][929]Cmd: EDIT PASTE
+[2023.06.23-21.02.52:325][742]LogEditorViewport: Clicking Background
+[2023.06.23-21.02.53:412][856]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2023.06.23-21.02.54:844][ 16]LogEditorViewport: Clicking Background
+[2023.06.23-21.02.55:879][139]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight2)
+[2023.06.23-21.02.57:669][340]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight3)
+[2023.06.23-21.02.59:039][495]LogEditorViewport: Clicking Background
+[2023.06.23-21.02.59:842][590]LogEditorViewport: Clicking on Actor (LMB): PointLight (PointLight4)
+[2023.06.23-21.03.00:856][702]LogEditorViewport: Clicking Background
+[2023.06.23-21.04.36:714][555]LogEditorViewport: Clicking Background
+[2023.06.23-21.04.36:718][555]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.23-21.05.09:114][108]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2023.06.23-21.05.11:819][356]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2023.06.23-21.05.16:814][906]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2023.06.23-21.05.20:396][253]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2023.06.23-21.05.25:735][824]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2023.06.23-21.05.35:815][313]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2023.06.23-21.06.01:057][265]LogRenderer: Reallocating scene render targets to support 1316x800 Format 10 NumSamples 1 (Frame:551789).
+[2023.06.23-21.06.01:112][266]LogRenderer: Reallocating scene render targets to support 1904x1036 Format 10 NumSamples 1 (Frame:551791).
+[2023.06.23-21.06.01:176][267]LogRenderer: Reallocating scene render targets to support 1920x1040 Format 10 NumSamples 1 (Frame:551793).
+[2023.06.23-21.06.07:051][670]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.06.23-21.06.07:063][670]LogSavePackage: Moving '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/MainLevel_Auto7F5D6A9584C28BC4BAD023DA20FFE4814.tmp' to '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/Autosaves/Game/Levels/MainLevel_Auto7.umap'
+[2023.06.23-21.06.07:065][670]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.021
+[2023.06.23-21.06.07:065][670]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.021
+[2023.06.23-21.07.13:159][390]Cmd: SELECT NONE
+[2023.06.23-21.07.13:819][444]Cmd: SELECT NONE
+[2023.06.23-21.07.15:122][551]Cmd: SELECT NONE
+[2023.06.23-21.07.15:651][595]Cmd: SELECT NONE
+[2023.06.23-21.07.18:179][839]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2023.06.23-21.10.17:426][970]LogEditorViewport: Clicking Background
+[2023.06.23-21.10.41:302][352]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2023.06.23-21.10.43:339][566]LogEditorViewport: Clicking on Actor (LMB): RectLight (RectLight)
+[2023.06.23-21.13.10:696][227]LogEditorViewport: Clicking Background
+[2023.06.23-21.13.10:911][251]Cmd: TRANSACTION UNDO
+[2023.06.23-21.13.10:911][251]LogEditorTransaction: Undo Clicking Background
+[2023.06.23-21.13.11:429][265]Cmd: TRANSACTION UNDO
+[2023.06.23-21.13.11:429][265]LogEditorTransaction: Undo Move Actors
+[2023.06.23-21.13.11:760][297]Cmd: TRANSACTION UNDO
+[2023.06.23-21.13.11:760][297]LogEditorTransaction: Undo Clicking on Actors
+[2023.06.23-21.13.12:132][331]Cmd: TRANSACTION UNDO
+[2023.06.23-21.13.12:132][331]LogEditorTransaction: Undo Clicking on Actors
+[2023.06.23-21.13.12:506][368]Cmd: TRANSACTION UNDO
+[2023.06.23-21.13.12:506][368]LogEditorTransaction: Undo Move Actors
+[2023.06.23-21.13.12:820][397]Cmd: TRANSACTION UNDO
+[2023.06.23-21.13.12:820][397]LogEditorTransaction: Undo Rotate Actors
+[2023.06.23-21.13.13:180][432]Cmd: TRANSACTION UNDO
+[2023.06.23-21.13.13:180][432]LogEditorTransaction: Undo Move Actors
+[2023.06.23-21.13.13:486][461]Cmd: TRANSACTION UNDO
+[2023.06.23-21.13.13:486][461]LogEditorTransaction: Undo Move Actors
+[2023.06.23-21.13.13:760][489]Cmd: TRANSACTION UNDO
+[2023.06.23-21.13.13:760][489]LogEditorTransaction: Undo Move Actors
+[2023.06.23-21.13.14:075][521]Cmd: TRANSACTION UNDO
+[2023.06.23-21.13.14:075][521]LogEditorTransaction: Undo Create Actors
+[2023.06.23-21.13.15:125][643]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2023.06.23-21.13.19:452][ 80]LogEditorViewport: Clicking Background
+[2023.06.23-21.13.22:250][370]LogEditorViewport: Clicking on Actor (LMB): SpotLight (SpotLight)
+[2023.06.23-21.13.23:679][517]LogEditorViewport: Clicking Background
+[2023.06.23-21.14.18:628][390]LogEditorViewport: Clicking Background
+[2023.06.23-21.15.30:487][606]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight', its maximum texture size has been explicitly set to 512.
+[2023.06.23-21.16.42:218][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.06.23-21.16.42:228][580]LogSavePackage: Moving '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/MainLevel_Auto8879574B341829D50C931EDB4226B5534.tmp' to '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/Autosaves/Game/Levels/MainLevel_Auto8.umap'
+[2023.06.23-21.16.42:230][580]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.025
+[2023.06.23-21.16.42:230][580]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.025
