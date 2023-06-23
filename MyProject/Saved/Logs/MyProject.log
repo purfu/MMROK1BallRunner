@@ -1355,3 +1355,189 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.06.23-16.31.43:948][547]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
 [2023.06.23-16.31.44:567][617]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
 [2023.06.23-16.32.02:248][ 69]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2023.06.23-16.32.53:797][176]LogEditorViewport: Clicking on Actor (LMB): DirectionalLight (DirectionalLight)
+[2023.06.23-16.33.38:899][282]LogSlate: Took 0.006584 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.06.23-16.34.01:703][866]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2023.06.23-16.35.02:414][ 62]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.06.23-16.35.02:420][ 62]LogSavePackage: Moving '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/MainLevel_Auto2D89DDC9D45CD5FBBB1460FAA65CAB8C8.tmp' to '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/Autosaves/Game/Levels/MainLevel_Auto2.umap'
+[2023.06.23-16.35.02:421][ 62]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.016
+[2023.06.23-16.35.02:421][ 62]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.016
+[2023.06.23-16.42.16:403][780]LogEditorViewport: Clicking Background
+[2023.06.23-16.45.12:490][922]LogMaterial: Display: Missing cached shadermap for T_Burst_M_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 0BBF68117C8DB25B9ED4601A534CEA6A7F5CC673), compiling. 
+[2023.06.23-16.45.12:537][923]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.06.23-16.45.12:537][923]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.06.23-16.45.12:537][923]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.06.23-16.45.12:537][923]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.23-16.45.12:566][923]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.06.23-16.45.12:566][923]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2023.06.23-16.45.12:566][923]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2023.06.23-16.45.12:566][923]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2023.06.23-16.45.12:566][923]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2023.06.23-16.45.12:566][923]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.06.23-16.45.12:566][923]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2023.06.23-16.45.12:566][923]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-16.45.14:048][999]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.06.23-16.45.14:048][999]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-16.45.14:055][999]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.23-16.45.14:055][999]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2023.06.23-16.45.14:055][999]LogShaderCompilers: Display: Tracking 1 distinct input hashes that result in 1 distinct outputs (100.00%)
+[2023.06.23-16.45.14:055][999]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.00%
+[2023.06.23-16.45.14:055][999]LogShaderCompilers: Display: ================================================
+[2023.06.23-16.45.14:245][ 11]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.06.23-16.45.14:245][ 11]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-16.45.18:598][466]LogMaterial: Display: Missing cached shadermap for T_Ceramic_Tile_M_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: B19FAAA5DAD58245DC7C5C7C4D56812AD9C7DE15), compiling. 
+[2023.06.23-16.45.18:640][467]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.06.23-16.45.18:640][467]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.06.23-16.45.18:640][467]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.06.23-16.45.18:640][467]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.23-16.45.18:640][467]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.06.23-16.45.18:640][467]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2023.06.23-16.45.18:640][467]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2023.06.23-16.45.18:640][467]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2023.06.23-16.45.18:640][467]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2023.06.23-16.45.18:640][467]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.06.23-16.45.18:641][467]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2023.06.23-16.45.18:641][467]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-16.45.19:494][494]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.06.23-16.45.19:494][494]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-16.45.19:630][501]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.06.23-16.45.19:630][501]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-16.45.35:467][266]LogMaterial: Display: Missing cached shadermap for T_Fire_Tiled_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: E217E132E8DA5FCBDECEEDC3A6E7B66D7DDFD72F), compiling. 
+[2023.06.23-16.45.35:505][267]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.06.23-16.45.35:505][267]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.06.23-16.45.35:505][267]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.06.23-16.45.35:505][267]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.23-16.45.35:505][267]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.06.23-16.45.35:505][267]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2023.06.23-16.45.35:505][267]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2023.06.23-16.45.35:505][267]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2023.06.23-16.45.35:505][267]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2023.06.23-16.45.35:505][267]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.06.23-16.45.35:505][267]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2023.06.23-16.45.35:505][267]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-16.45.36:360][294]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.06.23-16.45.36:360][294]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-16.45.36:595][307]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.06.23-16.45.36:596][307]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-16.45.57:210][602]LogMaterial: Display: Missing cached shadermap for T_CobbleStone_Rough_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: A2EDD62972CB4B5D4D3EE9A3897232BB8DB8C621), compiling. 
+[2023.06.23-16.45.57:255][603]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.06.23-16.45.57:255][603]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.06.23-16.45.57:255][603]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.06.23-16.45.57:255][603]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.23-16.45.57:255][603]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.06.23-16.45.57:255][603]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2023.06.23-16.45.57:255][603]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2023.06.23-16.45.57:255][603]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2023.06.23-16.45.57:255][603]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2023.06.23-16.45.57:255][603]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.06.23-16.45.57:255][603]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2023.06.23-16.45.57:255][603]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-16.45.58:293][641]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.06.23-16.45.58:293][641]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-16.45.58:311][642]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.06.23-16.45.58:311][642]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-16.46.03:664][130]LogMaterial: Display: Missing cached shadermap for T_Metal_Rust_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: A6F88560F829DCF228D4B726A42BE468337E230A), compiling. 
+[2023.06.23-16.46.03:705][131]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.06.23-16.46.03:705][131]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.06.23-16.46.03:705][131]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.06.23-16.46.03:706][131]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.23-16.46.03:706][131]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.06.23-16.46.03:706][131]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2023.06.23-16.46.03:706][131]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2023.06.23-16.46.03:706][131]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2023.06.23-16.46.03:706][131]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2023.06.23-16.46.03:706][131]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.06.23-16.46.03:706][131]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2023.06.23-16.46.03:706][131]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-16.46.04:616][157]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.06.23-16.46.04:616][157]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-16.46.04:656][159]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.06.23-16.46.04:656][159]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-16.46.06:528][308]LogMaterial: Display: Missing cached shadermap for T_Metal_Steel_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: C6157F24C01D3EED286FD7709C3F59683C82C9B5), compiling. 
+[2023.06.23-16.46.06:571][309]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.06.23-16.46.06:571][309]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.06.23-16.46.06:571][309]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.06.23-16.46.06:571][309]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.23-16.46.06:571][309]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.06.23-16.46.06:571][309]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2023.06.23-16.46.06:572][309]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2023.06.23-16.46.06:572][309]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2023.06.23-16.46.06:572][309]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2023.06.23-16.46.06:572][309]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.06.23-16.46.06:572][309]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2023.06.23-16.46.06:572][309]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-16.46.07:356][326]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.06.23-16.46.07:356][326]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-16.46.07:638][340]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.06.23-16.46.07:638][340]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-16.46.10:992][626]LogMaterial: Display: Missing cached shadermap for T_Statue_M_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: 53FC19AD34B1060E3794BED708D6BB390CEE3570), compiling. 
+[2023.06.23-16.46.11:037][627]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.06.23-16.46.11:037][627]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.06.23-16.46.11:037][627]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.06.23-16.46.11:037][627]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.23-16.46.11:037][627]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.06.23-16.46.11:037][627]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2023.06.23-16.46.11:037][627]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2023.06.23-16.46.11:037][627]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2023.06.23-16.46.11:037][627]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2023.06.23-16.46.11:037][627]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.06.23-16.46.11:037][627]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2023.06.23-16.46.11:037][627]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-16.46.11:851][647]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.06.23-16.46.11:852][647]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-16.46.12:069][657]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2023.06.23-16.46.12:070][657]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-16.46.15:941][ 43]LogMaterial: Display: Missing cached shadermap for T_Tech_Dot_M_Mat in PCD3D_SM5, Default, SM5 (DDC key hash: BE937C3228FBB488B36017FA7CD78719AD2CC4AC), compiling. 
+[2023.06.23-16.46.15:954][ 43]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2023.06.23-16.46.15:954][ 43]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2023.06.23-16.46.15:954][ 43]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2023.06.23-16.46.15:954][ 43]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2023.06.23-16.46.15:965][ 43]LogShaderCompilers: Display: Submitted 14 shader compile jobs with 'Normal' priority
+[2023.06.23-16.46.15:965][ 43]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2023.06.23-16.46.15:965][ 43]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2023.06.23-16.46.15:965][ 43]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 10
+[2023.06.23-16.46.15:965][ 43]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2023.06.23-16.46.15:965][ 43]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 6
+[2023.06.23-16.46.15:965][ 43]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2023.06.23-16.46.15:965][ 43]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-16.46.16:803][ 66]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2023.06.23-16.46.16:803][ 66]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-16.46.17:022][ 78]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2023.06.23-16.46.17:022][ 78]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2023.06.23-16.47.13:515][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.06.23-16.47.13:533][510]LogSavePackage: Moving '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/MainLevel_Auto31A4E4BC14F668FD5ACE948AEFAA3ACFC.tmp' to '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/Autosaves/Game/Levels/MainLevel_Auto3.umap'
+[2023.06.23-16.47.13:534][510]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/MainLevel' took 0.028
+[2023.06.23-16.47.13:534][510]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.028
+[2023.06.23-16.47.13:535][510]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Burst_M_Mat] ([1] browsable assets)...
+[2023.06.23-16.47.13:549][510]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Burst_M_Mat.T_Burst_M_Mat]
+[2023.06.23-16.47.13:549][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Burst_M_Mat]
+[2023.06.23-16.47.13:556][510]LogSavePackage: Moving '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/T_Burst_M_Mat_Auto3D4D6755646E794BA0D8B0FB30F40BFD8.tmp' to '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/Autosaves/Game/StarterContent/Textures/T_Burst_M_Mat_Auto3.uasset'
+[2023.06.23-16.47.13:557][510]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Ceramic_Tile_M_Mat] ([1] browsable assets)...
+[2023.06.23-16.47.13:568][510]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Ceramic_Tile_M_Mat.T_Ceramic_Tile_M_Mat]
+[2023.06.23-16.47.13:568][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Ceramic_Tile_M_Mat]
+[2023.06.23-16.47.13:584][510]LogSavePackage: Moving '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/T_Ceramic_Tile_M_Mat_Auto304D975AF4E12958757ADB094A09C8E4B.tmp' to '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/Autosaves/Game/StarterContent/Textures/T_Ceramic_Tile_M_Mat_Auto3.uasset'
+[2023.06.23-16.47.13:585][510]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Fire_Tiled_Mat] ([1] browsable assets)...
+[2023.06.23-16.47.13:596][510]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Fire_Tiled_Mat.T_Fire_Tiled_Mat]
+[2023.06.23-16.47.13:596][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Fire_Tiled_Mat]
+[2023.06.23-16.47.13:603][510]LogSavePackage: Moving '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/T_Fire_Tiled_Mat_Auto34372EEDF4E0B2C31F95CD696D0795673.tmp' to '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/Autosaves/Game/StarterContent/Textures/T_Fire_Tiled_Mat_Auto3.uasset'
+[2023.06.23-16.47.13:605][510]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_CobbleStone_Rough_Mat] ([1] browsable assets)...
+[2023.06.23-16.47.13:618][510]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_CobbleStone_Rough_Mat.T_CobbleStone_Rough_Mat]
+[2023.06.23-16.47.13:618][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_CobbleStone_Rough_Mat]
+[2023.06.23-16.47.13:626][510]LogSavePackage: Moving '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/T_CobbleStone_Rough_Mat_Auto37C51D8A341B7150C5C7135BFEC2028B1.tmp' to '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/Autosaves/Game/StarterContent/Textures/T_CobbleStone_Rough_Mat_Auto3.uasset'
+[2023.06.23-16.47.13:627][510]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Metal_Rust_Mat] ([1] browsable assets)...
+[2023.06.23-16.47.13:639][510]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Metal_Rust_Mat.T_Metal_Rust_Mat]
+[2023.06.23-16.47.13:639][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Metal_Rust_Mat]
+[2023.06.23-16.47.13:646][510]LogSavePackage: Moving '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/T_Metal_Rust_Mat_Auto3BEC240654515B84029B347B2768D03A9.tmp' to '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/Autosaves/Game/StarterContent/Textures/T_Metal_Rust_Mat_Auto3.uasset'
+[2023.06.23-16.47.13:647][510]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Metal_Steel_Mat] ([1] browsable assets)...
+[2023.06.23-16.47.13:658][510]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Metal_Steel_Mat.T_Metal_Steel_Mat]
+[2023.06.23-16.47.13:659][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Metal_Steel_Mat]
+[2023.06.23-16.47.13:666][510]LogSavePackage: Moving '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/T_Metal_Steel_Mat_Auto3F8C34E9244B0E8103865A98605A64AAB.tmp' to '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/Autosaves/Game/StarterContent/Textures/T_Metal_Steel_Mat_Auto3.uasset'
+[2023.06.23-16.47.13:667][510]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Statue_M_Mat] ([1] browsable assets)...
+[2023.06.23-16.47.13:678][510]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Statue_M_Mat.T_Statue_M_Mat]
+[2023.06.23-16.47.13:678][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Statue_M_Mat]
+[2023.06.23-16.47.13:684][510]LogSavePackage: Moving '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/T_Statue_M_Mat_Auto33FD5F93C47FAA4DCEC023C950663A1EA.tmp' to '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/Autosaves/Game/StarterContent/Textures/T_Statue_M_Mat_Auto3.uasset'
+[2023.06.23-16.47.13:685][510]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/StarterContent/Textures/T_Tech_Dot_M_Mat] ([1] browsable assets)...
+[2023.06.23-16.47.13:697][510]OBJ SavePackage:     Rendered thumbnail for [Material /Game/StarterContent/Textures/T_Tech_Dot_M_Mat.T_Tech_Dot_M_Mat]
+[2023.06.23-16.47.13:697][510]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/Textures/T_Tech_Dot_M_Mat]
+[2023.06.23-16.47.13:704][510]LogSavePackage: Moving '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/T_Tech_Dot_M_Mat_Auto37D064F6F41B40C4DE7175EAF27129176.tmp' to '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/Autosaves/Game/StarterContent/Textures/T_Tech_Dot_M_Mat_Auto3.uasset'
+[2023.06.23-16.47.13:706][510]LogFileHelpers: Auto-saving content packages took 0.171
