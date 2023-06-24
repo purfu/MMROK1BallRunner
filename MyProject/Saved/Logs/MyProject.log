@@ -2649,3 +2649,61 @@ Scale3D: 1.000000 1.000000 1.000000
 [2023.06.24-13.38.48:130][909]AssetCheck: New page: Asset Save: multiple assets
 [2023.06.24-13.38.48:130][909]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MainLevel_BuiltData.MainLevel_BuiltData
 [2023.06.24-13.38.48:131][909]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
+[2023.06.24-14.53.36:633][ 38]LogTemp: Repeating last play command: Selected Viewport
+[2023.06.24-14.53.36:640][ 38]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.24-14.53.36:640][ 38]PIE: New page: PIE session: MainLevel (Jun 24, 2023, 6:53:36 PM)
+[2023.06.24-14.53.36:667][ 38]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_MainLevel
+[2023.06.24-14.53.36:672][ 38]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004801s)
+[2023.06.24-14.53.36:673][ 38]LogAIModule: Creating AISystem for world MainLevel
+[2023.06.24-14.53.36:673][ 38]LogPlayLevel: PIE: World Init took: (0.001246s)
+[2023.06.24-14.53.36:673][ 38]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/MainLevel.MainLevel to /Game/Levels/UEDPIE_0_MainLevel.MainLevel (0.006252s)
+[2023.06.24-14.53.36:710][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2023.06.24-14.53.36:712][ 38]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2023.06.24-14.53.36:712][ 38]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.24-14.53.36:712][ 38]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.24-14.53.36:712][ 38]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.24-14.53.36:712][ 38]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.24-14.53.36:712][ 38]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.24-14.53.36:712][ 38]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.06.24-14.53.36:712][ 38]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.24-14.53.36:712][ 38]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.24-14.53.36:713][ 38]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.24-14.53.36:713][ 38]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.24-14.53.36:713][ 38]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.24-14.53.36:713][ 38]LogAudioMixer: Display: Initializing audio mixer.
+[2023.06.24-14.53.36:717][ 38]LogAudioMixer: Display: 0: FrontLeft
+[2023.06.24-14.53.36:717][ 38]LogAudioMixer: Display: 1: FrontRight
+[2023.06.24-14.53.36:727][ 38]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2023.06.24-14.53.36:727][ 38]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.24-14.53.36:727][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.24-14.53.36:727][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.24-14.53.36:729][ 38]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.06.24-14.53.36:729][ 38]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.06.24-14.53.36:729][ 38]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.06.24-14.53.36:730][ 38]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.06.24-14.53.36:730][ 38]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.06.24-14.53.36:730][ 38]LogInit: FAudioDevice initialized.
+[2023.06.24-14.53.36:730][ 38]LogAudio: Display: Audio Device (ID: 29) registered with world 'MainLevel'.
+[2023.06.24-14.53.36:738][ 38]LogLoad: Game class is 'BP_gaymmode_C'
+[2023.06.24-14.53.36:740][ 38]LogWorld: Bringing World /Game/Levels/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2023.06.24-16.53.36
+[2023.06.24-14.53.36:741][ 38]LogWorld: Bringing up level for play took: 0.001555
+[2023.06.24-14.53.36:741][ 38]LogOnline: OSS: Creating online subsystem instance for: :Context_36
+[2023.06.24-14.53.36:744][ 38]PIE: Server logged in
+[2023.06.24-14.53.36:745][ 38]PIE: Play in editor total start time 0.106 seconds.
+[2023.06.24-14.53.41:388][577]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.24-14.53.41:388][577]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_MainLevel
+[2023.06.24-14.53.41:388][577]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2023.06.24-14.53.41:389][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.24-14.53.41:402][577]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.24-14.53.41:425][577]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.24-14.53.41:455][577]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.24-14.53.41:455][577]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.24-14.53.41:456][577]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.06.24-14.53.41:463][577]LogUObjectHash: Compacting FUObjectHashTables data took   3.42ms
+[2023.06.24-14.53.41:483][578]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2023.06.24-14.54.44:473][815]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2023.06.24-14.54.44:492][815]LogSavePackage: Moving '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/MainLevel22CAB4DB48053BD005ADCBA09BEDA65A.tmp' to '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Content/Levels/MainLevel.umap'
+[2023.06.24-14.54.44:552][815]LogSavePackage: Moving '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Saved/MainLevel_BuiltDataB7F951E141E8B36DD59B098C51FDAC11.tmp' to '../../../../../../Users/domim/OneDrive/Dokumenty/GITHUB/MMROK1BallRunner/MyProject/Content/Levels/MainLevel_BuiltData.uasset'
+[2023.06.24-14.54.44:567][815]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.24-14.54.44:567][815]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/MainLevel_BuiltData.MainLevel_BuiltData
+[2023.06.24-14.54.44:567][815]LogContentValidation: Display: Validating World /Game/Levels/MainLevel.MainLevel
